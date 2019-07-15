@@ -12,7 +12,7 @@ class Song
     @@all 
   end
   
-  def artist(artist) 
+  def artist 
     @artist = artist
   end
   
