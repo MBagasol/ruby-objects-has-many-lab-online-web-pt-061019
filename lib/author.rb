@@ -1,6 +1,6 @@
 
 class Author 
-  attr_accessor :title, :posts
+  attr_accessor :name, :posts
   
   @@post_count = 1
   def initialize(titls)
